@@ -77,6 +77,8 @@ function App() {
           onChange={(e) => setName(e.target.value)}
           placeholder="Name"
         /> 
+
+        ug7gt7gb
        
         {errors.name && <p className="text-red-500 text-sm">{errors.name}</p>}
        
